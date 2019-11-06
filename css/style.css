@@ -25,11 +25,9 @@ html {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  /*тег header обарачиваем main Делаем калонками*/
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  /* первый блок располагается в начале главной оси, последний блок – в конце, все остальные блоки равномерно распределены в оставшемся пространстве.*/
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;

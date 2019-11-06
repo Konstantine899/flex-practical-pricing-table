@@ -14,9 +14,7 @@ html {
   color: #fff;
   display: flex;
   flex-direction: column;
-  /*тег header обарачиваем main Делаем калонками*/
   justify-content: space-between;
-  /* первый блок располагается в начале главной оси, последний блок – в конце, все остальные блоки равномерно распределены в оставшемся пространстве.*/
   align-items: center;
   height: 100vh;
   min-height: 600px;
